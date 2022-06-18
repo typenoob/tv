@@ -2959,3 +2959,5 @@ http://hls-ott-zhibo.wasu.tv/live/351/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/362/index.m3u8
 #EXTINF:-1,CCTV-5
 http://117.148.179.162/PLTV/88888888/224/3221233115/index.m3u8
+#EXTINF:-1,CCTV-1
+http://117.148.179.155:80/PLTV/88888888/224/3221231468/1.m3u8
